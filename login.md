@@ -9,6 +9,3 @@
 # Login
 <a href = 'login_complete.html'><img src = "https://user-images.githubusercontent.com/69938027/99370157-51a0f400-288b-11eb-87b9-0096913777c0.PNG" alt = 'Login'  height = "200" width = "10000"></a>
 
-
-
-<a href = 'login.md'><img src="https://user-images.githubusercontent.com/69938027/99431667-2218d880-28d9-11eb-8ae5-fec939399f4d.png" alt="Login"></a>
