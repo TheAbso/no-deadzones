@@ -1,5 +1,5 @@
-<img src="https://user-images.githubusercontent.com/69938027/99356802-cae31b80-2878-11eb-8877-af476a9b3638.png" alt="RIT Wi-fi">
-# <a style='color:orange'>Welcome to RIT Wi-fi, brought to you by Project No-Deadzones!</a>
+<img src="https://user-images.githubusercontent.com/69938027/99356802-cae31b80-2878-11eb-8877-af476a9b3638.png" alt="RIT Wi-fi" width='50' height='50'>
+<h1 style='color:orange; '>Welcome to RIT Wi-fi, brought to you by Project No-Deadzones!<h1>
 
 <a href='https://theabso.github.io/no-deadzones/' style='color:orange'>Home</a>
 
