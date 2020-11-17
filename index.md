@@ -6,5 +6,5 @@
 
 
 ### RIT Wi-Fi
-<img src="https://drive.google.com/file/d/1IMuAcw_Fpw54arC-WpVnWd1i-J1kIhi9/view?usp=sharing" alt="Login">
+<img src="login_button.png" alt="Login">
 
