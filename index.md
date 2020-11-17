@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/69938027/99356802-cae31b80-2878-11eb-8877-af476a9b3638.png" alt="RIT Wi-fi" width="100" height="100"> Welcome to RIT Wi-fi, brought to you by Project No-Deadzones!
+# <a><img src="https://user-images.githubusercontent.com/69938027/99356802-cae31b80-2878-11eb-8877-af476a9b3638.png" alt="RIT Wi-fi" width="50" height="50">Welcome to RIT Wi-fi, brought to you by Project No-Deadzones!</a>
 ### [Home](https://theabso.github.io/no-deadzones/)                                                     [FAQ](https://theabso.github.io/no-deadzones/FAQ)
 
 
