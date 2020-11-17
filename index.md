@@ -6,5 +6,4 @@
 
 
 ### RIT Wi-Fi
-<img src="https://user-images.githubusercontent.com/69938027/99431667-2218d880-28d9-11eb-8ae5-fec939399f4d.png" alt="Login" href="theabso.github.io/no-deadzones/login">
-
+<a href = 'login.md'><img src="https://user-images.githubusercontent.com/69938027/99431667-2218d880-28d9-11eb-8ae5-fec939399f4d.png" alt="Login"></a>
