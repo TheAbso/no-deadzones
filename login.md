@@ -35,18 +35,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
 <a href = https://github.com/TheAbso/no-deadzones/blob/gh-pages/index.md>
-    <img alt = 'Tiger!' src = "https://user-images.githubusercontent.com/69938027/99356802-cae31b80-2878-11eb-8877-af476a9b3638.png" height = "40" width = "40">
+    <img alt = 'Tiger!' src = "https://user-images.githubusercontent.com/69938027/99356802-cae31b80-2878-11eb-8877-af476a9b3638.png" height = "40" width = "40">    test test test
 </a>
-
-test test
-
-
-<html>
-<body style="background-color:powderblue;">
-
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
-
-</body>
-</html>
