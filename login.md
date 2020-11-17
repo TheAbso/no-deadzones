@@ -41,9 +41,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
     <img alt = 'Tiger!' src = "https://user-images.githubusercontent.com/69938027/99356802-cae31b80-2878-11eb-8877-af476a9b3638.png" height = "40" width = "40"> </a>   test test test
 
 
-<h1 style="color:blue;">RIT</h1>
-
-
-<div class="text-purple">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
-</div>
+<h1 style="color:OrangeRed;">RIT</h1>
