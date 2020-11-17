@@ -7,6 +7,8 @@
 <a href = 'https://theabso.github.io/no-deadzones/FAQ'>
     <h1 style = 'color:orange'>FAQ</h></a>
 
+<a href="http://example.com/" style="color:red;">Red Link</a>
+
 
 # Login
 <a href = https://github.com/TheAbso/no-deadzones/blob/gh-pages/login_complete.md>
