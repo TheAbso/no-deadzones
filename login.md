@@ -5,22 +5,10 @@
 <a href = 'https://theabso.github.io/no-deadzones/'>
     <h1 style = 'color:orange'>Home</a></h1>
 
-
-### [Home](https://theabso.github.io/no-deadzones/)
-
-### [FAQ](https://theabso.github.io/no-deadzones/FAQ)
+<a href = 'https://theabso.github.io/no-deadzones/FAQ>
+    <h1 style = 'color:orange'>FAQ</a></h1>
 
 
 # Login
-<!DOCTYPE html>
-<html>
-<body>
-
-<h1 style="background-color:powderblue;">This is a heading</h1>
-<p style="background-color:tomato;">This is a paragraph.</p>
-
-</body>
-</html>
-
-
-
+<a href = https://github.com/TheAbso/no-deadzones/blob/gh-pages/login_complete.md>
+    <img alt = 'Login!' src = "https://user-images.githubusercontent.com/69938027/99370157-51a0f400-288b-11eb-87b9-0096913777c0.PNG" height = "100" width = "100"> </a>
