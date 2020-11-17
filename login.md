@@ -37,6 +37,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 
-![tiger](https://user-images.githubusercontent.com/69938027/99356802-cae31b80-2878-11eb-8877-af476a9b3638.png | width=100)
-
+<img src = "https://user-images.githubusercontent.com/69938027/99356802-cae31b80-2878-11eb-8877-af476a9b3638.png" height = "20" width = "20">
 
