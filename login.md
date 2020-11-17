@@ -42,3 +42,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 <h1 style="color:blue;">RIT</h1>
+
+
+<div class="text-purple">
+  This text is purple, <a href="#" class="text-inherit">including the link</a>
+</div>
