@@ -6,5 +6,5 @@
 
 
 ### RIT Wi-Fi
-<img src="login_button.png" alt="Login">
+<img src="login_button.png" alt="Login" href="theabso.github.io/no-deadzones/login>
 
