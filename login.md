@@ -4,7 +4,7 @@
 <a href = 'https://theabso.github.io/no-deadzones/'>
     <h1 style = 'color:orange'>Home</h></a>
 
-<a href = 'https://theabso.github.io/no-deadzones/FAQ'h1 style ='color:orange;'>FAQ</a>
+<a href = 'https://theabso.github.io/no-deadzones/FAQ' style ='color:orange;'>FAQ</a>
 
 <a href="http://example.com/" style="color:red;">Red Link</a>
 
