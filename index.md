@@ -5,5 +5,5 @@
 
 
 ## RIT Wi-Fi
-[Login](https://theabso.github.io/no-deadzones/login.md/)
+[Login](login.md)
 
