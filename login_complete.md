@@ -7,5 +7,5 @@
 <a href = 'https://theabso.github.io/no-deadzones/FAQ' style ='color:orange;'>FAQ</a>
 
 
-<a href = 'https://theabso.github.io/no-deadzones/'><img src = "https://user-images.githubusercontent.com/69938027/99370734-0dfaba00-288c-11eb-964a-f244d0046b66.PNG" alt = 'Connected!' height = "400" width = "10000"></a>
+<a href = 'https://theabso.github.io/no-deadzones/'><img src = "https://user-images.githubusercontent.com/69938027/99370734-0dfaba00-288c-11eb-964a-f244d0046b66.PNG" alt = 'Connected!' height = "200" width = "10000"></a>
 
