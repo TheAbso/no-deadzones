@@ -6,8 +6,5 @@
 
 <a href = 'https://theabso.github.io/no-deadzones/FAQ' style ='color:orange;'>FAQ</a>
 
-<a href="http://example.com/" style="color:red; background-color:tomato;">Test Link</a>
-
-
 # Login
 <a href = 'login_complete.md'><img src = "https://user-images.githubusercontent.com/69938027/99370157-51a0f400-288b-11eb-87b9-0096913777c0.PNG" alt = 'Login'  height = "200" width = "10000"></a>
