@@ -3,10 +3,10 @@
 
 
 <a href = 'https://theabso.github.io/no-deadzones/'>
-    <h1 style = 'color:orange'>Home</a></h1>
+    <h1 style = 'color:orange'>Home</a>
 
 <a href = 'https://theabso.github.io/no-deadzones/FAQ'>
-    <h1 style = 'color:orange'>FAQ</a></h1>
+    <h1 style = 'color:orange'>FAQ</a>
 
 
 # Login
