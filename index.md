@@ -7,7 +7,6 @@
 <a href="https://theabso.github.io/no-deadzones/FAQ.html" style='color:orange'>FAQ</a>
 
 
-
-
 ### RIT Wi-Fi
+
 <a href = 'login.html'><img src="https://user-images.githubusercontent.com/69938027/99431667-2218d880-28d9-11eb-8ae5-fec939399f4d.png" alt="Login"></a>
